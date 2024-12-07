@@ -1347,7 +1347,7 @@ textarea {
   font-size: 14px;
   font-weight: 400; }
   .medilife-catagories-card ul li a:hover, .medilife-catagories-card ul li a:focus {
-    color: #006cff; }
+    color: #000000; font-size: 9px;}
 
 .latest-news-widget-area h5 {
   margin-bottom: 30px; }
